@@ -1,2 +1,2 @@
-# codes_ds
- repositorio_versionado
+# portfolio_ds
+ Repository for data science projects.
